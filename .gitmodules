@@ -10,3 +10,6 @@
 [submodule "SawBlade.gid"]
 	path = SawBlade.gid
 	url = https://github.com/PhiHo-eng/SawBlade.gid
+[submodule "KratosSimplePythonModels"]
+	path = KratosSimplePythonModels
+	url = https://github.com/e-dub/KratosSimplePythonModels
