@@ -1,3 +1,6 @@
 [submodule "RotorBladeNREL"]
 	path = RotorBladeNREL
 	url = https://github.com/e-dub/RotorBladeNREL
+[submodule "RobotArm.gid"]
+	path = RobotArm.gid
+	url = https://github.com/e-dub/RobotArm.gid
