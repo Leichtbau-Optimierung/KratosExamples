@@ -4,3 +4,9 @@
 [submodule "RobotArm.gid"]
 	path = RobotArm.gid
 	url = https://github.com/e-dub/RobotArm.gid
+[submodule "SawBladeToothless.gid"]
+	path = SawBladeToothless.gid
+	url = https://github.com/PhiHo-eng/SawBladeToothless.gid
+[submodule "SawBlade.gid"]
+	path = SawBlade.gid
+	url = https://github.com/PhiHo-eng/SawBlade.gid
