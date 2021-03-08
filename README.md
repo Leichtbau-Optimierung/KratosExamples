@@ -1,4 +1,4 @@
-# Examples of modeling and analysis with Kratos Multiphysics at unibz
+# Examples of modeling and analysis with Kratos Multiphysics
 
 ## Simple beam models (complete Python modeling): KratosSimplePythonModels
 <p align=left><img width="100%" src="fig/BeamDisplacement.png"></p>
