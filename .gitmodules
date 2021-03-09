@@ -1,0 +1,24 @@
+[submodule "KratosSimplePythonModels"]
+	path = KratosSimplePythonModels
+	url = https://github.com/e-dub/KratosSimplePythonModels
+	branch = main
+[submodule "RobotArm.gid"]
+	path = RobotArm.gid
+	url = https://github.com/e-dub/RobotArm.gid
+	branch = master
+[submodule "RotorBladeNREL.gid"]
+	path = RotorBladeNREL.gid
+	url = https://github.com/e-dub/RotorBladeNREL.gid
+	branch = main
+[submodule "SawBlade.gid"]
+	path = SawBlade.gid
+	url = https://github.com/PhiHo-eng/SawBlade.gid
+	branch = main
+[submodule "SawBladeToothless.gid"]
+	path = SawBladeToothless.gid
+	url = https://github.com/PhiHo-eng/SawBladeToothless.gid
+	branch = main
+[submodule "Violin.gid"]
+	path = Violin.gid
+	url = https://github.com/e-dub/Violin.gid
+	branch = main
