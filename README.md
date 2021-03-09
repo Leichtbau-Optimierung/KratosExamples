@@ -18,3 +18,5 @@
 ## Gear housing
 <p align=left><img width="100%" src="fig/GearHousing.png"></p>
 
+## Violin top plate: Violin.gid
+<p align=left><img width="100%" src="fig/ViolinMode10.png"></p>
