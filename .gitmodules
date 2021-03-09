@@ -13,3 +13,6 @@
 [submodule "KratosSimplePythonModels"]
 	path = KratosSimplePythonModels
 	url = https://github.com/e-dub/KratosSimplePythonModels
+[submodule "Violin.gid"]
+	path = Violin.gid
+	url = https://github.com/e-dub/Violin.gid
