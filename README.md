@@ -20,3 +20,9 @@
 
 ## Violin top plate: Violin.gid
 <p align=left><img width="100%" src="fig/ViolinMode10.png"></p>
+
+
+Clone with all models with the following command:
+```bash
+git clone --recurse-submodules https://github.com/unibz-Leichtbau/KratosExamples
+```
