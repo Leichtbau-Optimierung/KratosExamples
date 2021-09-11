@@ -21,7 +21,7 @@
 ## Violin top plate: Violin.gid
 <p align=left><img width="100%" src="fig/ViolinMode10.png"></p>
 
-## Topology optimization - Aerial lift pylon
+## Topology optimization - Cableway pylon
 <p align=left><img width="50%" src="fig/TopOpt_ViertelModel_iso2Mesh.png"><img width="50%" src="fig/TopOpt_ViertelModel_side1Mesh.png"></p>
 
 Clone with all models with the following command:
