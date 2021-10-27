@@ -21,8 +21,11 @@
 ## Violin top plate: Violin.gid
 <p align=left><img width="100%" src="fig/ViolinMode10.png"></p>
 
+## Compressor impeller
+<p align=left><img width="100%" src="fig/Compressor_Mode20.png"></p>
+
 ## Topology optimization - Cableway pylon
-<p align=left><img width="50%" src="fig/TopOpt_ViertelModel_iso2Mesh.png"><img width="50%" src="fig/TopOpt_ViertelModel_side1Mesh.png"></p>
+<p align=left><img width="50%" src="fig/TopOpt_Model_Seilbahnmast_beschriftet_EW.svg"><img width="50%" src="fig/TopOpt_Whole_model_pylon_Mesh.png"></p>
 
 Clone with all models with the following command:
 ```bash
