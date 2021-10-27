@@ -22,7 +22,7 @@
 <p align=left><img width="100%" src="fig/ViolinMode10.png"></p>
 
 ## Compressor impeller
-<p align=left><img width="100%" src="fig/Compressor_Mode20.png"></p>
+<p align=left><img width="100%" src="fig/Compressor_Mode1.png"></p>
 
 ## Topology optimization - Cableway pylon
 <p align=left><img width="50%" src="fig/TopOpt_Model_Seilbahnmast_beschriftet_EW.svg"><img width="20%" src="fig/TopOpt_Whole_model_pylon_Mesh.png"></p>
